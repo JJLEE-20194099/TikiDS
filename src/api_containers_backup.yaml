@@ -1,0 +1,150 @@
+thuc-pham-tuoi-song: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=44792&urlKey=thuc-pham-tuoi-song',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=127496011',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+bach-hoa-online: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=4384&urlKey=bach-hoa-online',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=26044154',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+nha-sach-tiki: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=8322&urlKey=nha-sach-tiki',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=74021318',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+nha-cua-doi-song : [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=1883&urlKey=nha-cua-doi-song',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=579457',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+thiet-bi-kts-phu-kien-so: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=1815&urlKey=thiet-bi-kts-phu-kien-so',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=75557004',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+dien-thoai-may-tinh-bang: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=1789&urlKey=dien-thoai-may-tinh-bang',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=134844721',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+do-choi-me-be: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=2549&urlKey=do-choi-me-be',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=59143354',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+lam-dep-suc-khoe: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=1520&urlKey=lam-dep-suc-khoe',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=58731236',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+dien-gia-dung: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=1882&urlKey=dien-gia-dung',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=36626941',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+thoi-trang-nu: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=931&urlKey=thoi-trang-nu',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=93278685',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+thoi-trang-nam: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=915&urlKey=thoi-trang-nam',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=53325371',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+giay-dep-nu: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=1703&urlKey=giay-dep-nu',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=93226547',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+tui-vi-nu: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=976&urlKey=tui-vi-nu',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=68683975',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+giay-dep-nam: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=1686&urlKey=giay-dep-nam',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=68483265',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+tui-thoi-trang-nam: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=27616&urlKey=tui-thoi-trang-nam',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=130771701',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+balo-va-vali: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=6000&urlKey=balo-va-vali',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=70821072',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+phu-kien-thoi-trang: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=27498&urlKey=phu-kien-thoi-trang',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=104361784',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+dong-ho-va-trang-suc: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=8371&urlKey=dong-ho-va-trang-suc',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=56706733',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+laptop-may-vi-tinh-linh-kien: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=1846&urlKey=laptop-may-vi-tinh-linh-kien',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=3054371',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+hang-quoc-te: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=17166&urlKey=hang-quoc-te',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=2927895',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+voucher-dich-vu: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=11312&urlKey=voucher-dich-vu',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=973318',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+o-to-xe-may-xe-dap: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=8594&urlKey=o-to-xe-may-xe-dap',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=107101622',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+dien-tu-dien-lanh: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=4221&urlKey=dien-tu-dien-lanh',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=139558964',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+the-thao-da-ngoai: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=1975&urlKey=the-thao-da-ngoai',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=54734256',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+
+may-anh: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=1801&urlKey=may-anh',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=48652710',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
+

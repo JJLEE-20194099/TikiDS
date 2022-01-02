@@ -1,0 +1,5 @@
+thiet-bi-kts-phu-kien-so: [
+  'https://tiki.vn/api/personalish/v1/blocks/listings?limit=48&include=advertisement&aggregations=1&trackity_id=06406b4c-3c86-020d-4384-75a8ceeef504&category=1815&urlKey=thiet-bi-kts-phu-kien-so',
+  'https://tiki.vn/api/v2/products/{}?platform=web&spid=75557004',
+  'https://tiki.vn/api/v2/reviews?limit=100&include=comments,contribute_info&sort=score%7Cdesc,id%7Cdesc,stars%7Call&product_id={}'
+]
