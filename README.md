@@ -1,3 +1,4 @@
+Do 1 số công thức không hiển thị được trong README.md nên nhóm chúng tôi khuyên bạn đọc nên vào đây để xem chi tiết
 Link markdown: https://hackmd.io/5nTpY6teSEyI3ICU3PepMg?view
 # Khoa học dữ liệu
 - [Tự đánh giá project](#)
