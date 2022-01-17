@@ -1,6 +1,4 @@
-Do 1 số công thức không hiển thị được trong README.md nên nhóm chúng tôi khuyên bạn đọc nên vào đây để xem chi tiết
-Link markdown: https://hackmd.io/5nTpY6teSEyI3ICU3PepMg?view
-# Khoa học dữ liệu
+# Báo cáo đồ án môn khoa học dữ liệu
 - [Tự đánh giá project](#)
 - [Về chúng tôi](#khoa-h-c-d--li-u)
   * [Thành viên của nhóm](#tha-nh-vi-n-nho-m)
@@ -38,6 +36,7 @@ Link markdown: https://hackmd.io/5nTpY6teSEyI3ICU3PepMg?view
      + [Chi tiết cài đặt](#)
      + [Thử nghiệm](#)
      + [Một vài Case Study](#)
+- [Hướng dẫn chạy project](#)
       
 
 ## Tự đánh giá project
@@ -986,6 +985,38 @@ Với MLP, hầu hết vẫn là các kết quả gợi ý không liên quan, ng
     
 Với NMF, kết quả khá khẩm hơn chút khi gợi ý ra được dụng cụ cho nội trợ, việc nhà như cây lau nhà, dép đi trong  nhà, nước rửa tay hay kệ chén bát, bên cạnh áo thun. Tuy nhiên, các kết quả khác như dây mạng, quần lót nam, vốn không liên hệ đến lịch sử người dùng, biểu thị chúng ta cần xây dựng hệ gợi ý phù hợp hơn và cải tiến nhiều hơn, trước khi cài đặt trong hệ thống thực.
 
+## Hướng dẫn chạy project:
+
+***B1: Tải project ở đây:***
+
+https://drive.google.com/drive/folders/1w3FfjDEpSDQUsHA0jbxwm1M1f8PKLrYP?usp=sharing
+
+***B2: Crawl data***
+
++ Chạy lần lượt 2 file ***[2a] Data Crawling.py*** và ***[2b] Data Crawling.py***
+    ***Chú ý:*** Nhóm tôi khuyên bản nên dùng data đã crawl sắn trong project vì quá trình crawl rất lâu và nhóm chúng tôi phải crawl lại rất nhiều lần
+
+***B3: Data intergration***
++ Chạy file ***[3] Data Intergration.ipynb*** để tích hợp dữ liệu
+
+***B4: Làm sạch và tiền xử lý dữ liệu***
++ Chạy lần lượt 2 file ***[4a] Data Cleaning And Preprocessing.ipnb*** và ***[4b] Build Info Datasets.ipynb*** để xây dựng file mô tả thông tin bộ dataset
+
+***B5: Khám phá dữ liệu***
++ Chạy file ***[5] Data Exploration.ipynb*** để khám phá bằng cách visualize dữ liệu
+
+***B6: Modeling***
++ Vào thư mục ***[7] Modeling***
++ Sold Prediction: Chạy file ***[1] User_Beha_Based_On_Item's_Features.ipynb***
++ ***Rating Prediction***: Chạy lần lượt các file trong thư mục ***Rating Prediction***
+    * ***[1] Building Train & Test Dataset.ipynb***: Xây dựng bộ dataset, chia k-fold(***k=5***)
+    + ***[2] MF.py***: Mô hình Matrix Factorization đơn giản
+    + ***[3] CB.py***: Mô hình Content-based
+    + ***[4] GMF_MLP_NeuMF.ipynb***: Các mô hình GMF, MLP và NeuMF cải thiện kết quả của bài toán rating prediction
+
++ ***Recommender System***: Chạy file trong ***NCF_data_20211***
+    + ***NCF_Recommender.ipynb***: mô hình ***GMF, MLP, NMF(NeuMF)*** cho bài toán ***hệ gợi ý***
+    
 
 
 
