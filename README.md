@@ -994,13 +994,15 @@ https://drive.google.com/drive/folders/1w3FfjDEpSDQUsHA0jbxwm1M1f8PKLrYP?usp=sha
 ***B2: Crawl data***
 
 + Chạy lần lượt 2 file ***[2a] Data Crawling.py*** và ***[2b] Data Crawling.py***
-    ***Chú ý:*** Nhóm tôi khuyên bản nên dùng data đã crawl sắn trong project vì quá trình crawl rất lâu và nhóm chúng tôi phải crawl lại rất nhiều lần
+    ***Chú ý:*** Nhóm tôi khuyên bản nên dùng data đã crawl sắn trong project vì quá trình crawl rất lâu và nhóm chúng tôi phải crawl lại rất nhiều lần.
+    ***Trong khi crawl data nhóm tôi đã cũng đã học cách lưu trữ data lên HDFS. File config docker trong thư mục: HDFS Cluster của project***
 
 ***B3: Data intergration***
 + Chạy file ***[3] Data Intergration.ipynb*** để tích hợp dữ liệu
 
 ***B4: Làm sạch và tiền xử lý dữ liệu***
 + Chạy lần lượt 2 file ***[4a] Data Cleaning And Preprocessing.ipnb*** và ***[4b] Build Info Datasets.ipynb*** để xây dựng file mô tả thông tin bộ dataset
+
 
 ***B5: Khám phá dữ liệu***
 + Chạy file ***[5] Data Exploration.ipynb*** để khám phá bằng cách visualize dữ liệu
